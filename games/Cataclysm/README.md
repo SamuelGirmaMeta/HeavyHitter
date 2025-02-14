@@ -1,4 +1,4 @@
-# Catacylsm 
+# Cataclysm
 
 **Team Members:** Samuel Girma
 
